@@ -4,7 +4,7 @@ db = client.test
 print(db)
 
 d= {
-    "name" : "ravi",
+    "name" : "ravi kumar",
     "email" : "ravi81073@gmail.com",
     "surname" : "kumar"
 }
